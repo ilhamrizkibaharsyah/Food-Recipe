@@ -1,1 +1,1 @@
-Hello everyone, this is my little project from Dicoding Academy, modul Collection Type
+Hello everyone, this is my simple project from Dicoding Academy, modul Collection Type
